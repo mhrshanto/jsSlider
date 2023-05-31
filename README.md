@@ -8,7 +8,7 @@ The JS Slider is a versatile and customizable JavaScript slider library that all
 
 Link : [JS Slider Slideshow](https://mhrshanto.github.io/jsSlider/)
 
-[JS Slider](https://github.com/mhrshanto/jsSlider/assets/74135853/3f16fc15-49e3-4eec-8616-89e374851735)
+![JS Slider](https://github.com/mhrshanto/jsSlider/assets/74135853/3f16fc15-49e3-4eec-8616-89e374851735)
 ## Key Features:
 
 - Responsive Design: The slider adapts seamlessly to different screen sizes, ensuring optimal viewing experience on all devices.
