@@ -3,7 +3,7 @@
 ## About JS Slider
 The JS Slider is a versatile and customizable JavaScript slider library that allows you to create beautiful and interactive image sliders for your web projects. Whether you need a simple image carousel or a complex slideshow with advanced features, this library provides the necessary tools and functionality to build stunning sliders.
 
-## Demo![JS Slider](https://github.com/mhrshanto/jsSlider/assets/74135853/3f16fc15-49e3-4eec-8616-89e374851735)
+## Demo!
 
 
 Link : [JS Slider Slideshow](https://mhrshanto.github.io/jsSlider/)
