@@ -8,8 +8,52 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>JS Slider Slideshow</h1>
 
+    <div class="slideshow-container">
+        <h1 class="heading">JS Slider Slideshow</h1>
+        <!-- Our Slider -->
+        <div class="mySlides">
+            <div class="number-text">1/5</div>
+            <img src="./img/SliderImage (1).jpg" alt="sliderImage1">
+            <div class="text">Trees</div>
+        </div>
+        <div class="mySlides">
+            <div class="number-text">2/5</div>
+            <img src="./img/SliderImage (2).jpg" alt="sliderImage1">
+            <div class="text">Birds</div>
+        </div>
+        <div class="mySlides">
+            <div class="number-text">3/5</div>
+            <img src="./img/SliderImage (3).jpg" alt="sliderImage1">
+            <div class="text">Sky</div>
+        </div>
+        <div class="mySlides">
+            <div class="number-text">4/5</div>
+            <img src="./img/SliderImage (4).jpg" alt="sliderImage1">
+            <div class="text">River</div>
+        </div>
+        <div class="mySlides">
+            <div class="number-text">5/5</div>
+            <img src="./img/SliderImage (5).jpg" alt="sliderImage1">
+            <div class="text">Grass</div>
+        </div>
+
+        <!-- Prev & Next Button -->
+        <a class="prev" onclick= "plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick= "plusSlides(1)" >&#10095;</a>
+
+    </div>
+
+    <br>
+
+    <!-- Dots & Circle -->
+    <div style="text-align:center;">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+        <span class="dot" onclick="currentSlide(5)"></span>
+    </div>
 
     <script src="index.js"></script>
 </body>
